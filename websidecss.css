@@ -1,0 +1,45 @@
+.navbar
+{
+    background: rgb(1,51,104);
+    background: linear-gradient(139deg, rgba(1,51,104,1) 33%, rgba(255,0,0,1) 73%);
+    color: white;
+
+
+
+}
+ .h7
+ {
+color: black;
+
+
+
+
+ }
+
+ .container
+ {
+
+    background: rgb(1,51,104);
+    background: linear-gradient(139deg, rgba(1,51,104,1) 33%, rgba(255,0,0,1) 73%);
+
+
+ }
+
+ .body
+ {
+    background: rgb(1,51,104);
+    background: linear-gradient(139deg, rgba(1,51,104,1) 33%, rgba(255,0,0,1) 73%);
+
+ }
+ 
+ .h4
+ {
+    text-align: center;
+ }
+
+ .row
+ {
+    text-align: center;
+
+
+ }
